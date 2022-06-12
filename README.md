@@ -3,14 +3,10 @@
 This project allows you to measure the distance from camera to qr code or distance from camera to face.
 
 face distance demo:  
-<video width="320" height="240" controls>
-  <source src="docs/face_distance_demo.mp4" type="video/mp4">
-</video>
+![](doc/face_distance_demo.mp4)
 
 qr code distance demo:  
-<video width="320" height="240" controls>
-  <source src="docs/qr_code_distance_demo.mp4" type="video/mp4">
-</video>
+![](doc/qr_code_distance_demo.mp4)
 
 
 ## requirements
