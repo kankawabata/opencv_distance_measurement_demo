@@ -4,11 +4,22 @@ This project allows you to measure the distance from camera to qr code or distan
 
 face distance demo:  
   
-![](https://youtu.be/GA-pYiIhsQc)
+![](doc/face_distance_demo.mp4)
+
+https://youtu.be/GA-pYiIhsQc
 
 qr code distance demo:
    
+![](doc/qr_code_distance_demo.mp4)  
+
+<video width="320" height="240" controls>
+  <source src="doc/qr_code_distance_demo.mp4" type="video/mp4">
+</video>
+
 ![](https://youtu.be/qf3xkRLpfro)  
+
+https://youtu.be/qf3xkRLpfro
+
 
 ## requirements
 poetry 
